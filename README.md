@@ -12,5 +12,5 @@ The wordlist (taken from Oren Tirosh's [Mnemonic Encoding Project](http://web.ar
 * No two words sound similar.
 * All words have more than one syllable, making them more easily understood when spoken.
 * No word is a prefix of another (e.g. VISIT/VISITOR, BOOK/BOOKSHOP).
-* No words have tricky spellings or pronounciations.
+* No words have tricky spellings or pronunciations.
 * No offensive words.
