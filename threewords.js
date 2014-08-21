@@ -10,7 +10,7 @@ codewords.sort();
 // Get length of codewords array. You can add and remove codewords as necessary.
 var n = codewords.length;
 
-// This is the numeric identifier you want to convert to three words. Can take any value from 0 to 4 354 703 137 (i.e. 1633^3) when using the default codeword array.
+// This is the numeric identifier you want to convert to three words. Can take any value from 0 to 4 354 703 136 (i.e. 1633^3 -1) when using the default codeword array.
 var ID = 123456789;
 
 // Split ID into base-n components
