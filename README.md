@@ -1,7 +1,7 @@
 ThreeWords
 ===========
 
-ThreeWords is a JavaScript "library" that takes a numerical value and converts it into a unique three-word identifier. It is intended for use where communicating a numerical value itself would be cumbersome or difficult, particularly in URLs.
+ThreeWords is a JavaScript "library" that takes a numerical value and converts it into a unique three-word identifier. It is intended for use where communicating a numerical value would be cumbersome or difficult, particularly in URLs.
 
 For example:
 * http://www.example.com/3715986347 becomes http://www.example.com/SovietLaserBasket.  
